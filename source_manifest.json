@@ -1,0 +1,52 @@
+{
+  "review_date": "2026-10-29",
+  "scope": "Code only; no data, outputs, credentials or weights. Private Drive links are not published. Source hashes identify the privately retained originals.",
+  "notebooks": [
+    {
+      "notebook": "notebooks/reference/assessing_prostate_fused_mri_dataset.ipynb",
+      "source_name": "assessing_prostate_fused_mri_dataset.ipynb",
+      "source_sha256": "6c98e618906386b1fe732bef959dd12a047a9cc9cedbc20670c91f9aee9afe72",
+      "published_sha256": "0c8fb1bd75376f0d1b096e61f949b55c63eb299b6071d3ca5e3a0472a1406f49",
+      "original_cells": 43,
+      "publication_changes": [
+        "cell 1: removed environment/navigation command",
+        "cell 28: removed environment/navigation command",
+        "cell 29: removed environment/navigation command",
+        "cell 2: removed environment/navigation command",
+        "cell 30: removed environment/navigation command",
+        "cell 33: removed environment/navigation command"
+      ]
+    },
+    {
+      "notebook": "notebooks/reference/automating_ROI_PC.ipynb",
+      "source_name": "automating_ROI_PC.ipynb",
+      "source_sha256": "f54e454b2817b663aa8cd210d6f0fd005e6a8a7cd8e89d276ca23f58f819e26c",
+      "published_sha256": "397112e2a53e59b24312a6875c80c06aad28a0f341c6f92cea26e475c98ccdfb",
+      "original_cells": 79,
+      "publication_changes": [
+        "cell 0: removed environment/navigation command",
+        "cell 25: removed environment/navigation command",
+        "cell 28: removed environment/navigation command",
+        "cell 2: removed environment/navigation command",
+        "cell 30: removed environment/navigation command",
+        "cell 36: removed environment/navigation command",
+        "cell 3: removed environment/navigation command",
+        "cell 41: removed environment/navigation command",
+        "cell 44: removed environment/navigation command",
+        "cell 4: removed environment/navigation command",
+        "cell 5: removed environment/navigation command",
+        "cell 6: removed environment/navigation command",
+        "cell 76: removed environment/navigation command",
+        "cell 7: removed environment/navigation command"
+      ]
+    },
+    {
+      "notebook": "notebooks/PICAI_Histology_Restart.ipynb",
+      "source_name": "PICAI_Histology_Restart.ipynb",
+      "source_sha256": "06545f9091b8300b1c5de24aa30d2bdf673658995ead56959c06ebfe6148e004",
+      "published_sha256": "8d5b3431937195af9e3bde953580d5eb30767ffe80fc2c12bea03bb1322cd828",
+      "original_cells": 25,
+      "publication_changes": []
+    }
+  ]
+}
